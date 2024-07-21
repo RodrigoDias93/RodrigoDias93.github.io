@@ -35,10 +35,10 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/Rodrigo_dsdias
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: 
+    url: 
+  - icon: 
+    url: 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rodrigo-da-silva-dias-488102110/
   - icon: academicons/google-scholar
