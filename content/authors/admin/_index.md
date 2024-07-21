@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rodrigo.dias@colorado.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Rodrigo_dsdias
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rodrigo-da-silva-dias-488102110/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.br/citations?user=XAKaWHQAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3701-9023
 
 interests:
   - Artificial Intelligence
