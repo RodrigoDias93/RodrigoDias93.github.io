@@ -58,7 +58,7 @@ education:
       url: ''
   - area: MSc in Behavioral Sciences, 2017
     institution: Fundacao Getulio Vargas (EBAPE)
-    date_start: 2016-01-012
+    date_start: 2016-01-12
     date_end: 2017-12-15
     summary:
   - area: BSc in Business Administration, 2015
