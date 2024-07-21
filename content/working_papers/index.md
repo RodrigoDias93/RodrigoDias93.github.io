@@ -1,14 +1,11 @@
 ---
-widget: blank
-active: true
-# This file represents a page section.
-headless: true
-# Order that this section appears on the page.
-weight: 30
-# Section title
-title: 'Selected Working Papers'
-# Section subtitle
-subtitle: ''
-# Section design
+title: My page
+type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: Title Here
+      subtitle: My subtitle
+      text: Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
 ---
-**Rodrigo S. Dias**, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
