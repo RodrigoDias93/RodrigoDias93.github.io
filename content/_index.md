@@ -66,10 +66,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Working Papers
       filters:
         folders:
-          - event
+          - working_papers
     design:
       view: article-grid
       columns: 1
