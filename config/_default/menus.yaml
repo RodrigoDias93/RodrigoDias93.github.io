@@ -19,9 +19,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
   - name: CV
     url: 'https://duke.box.com/s/xq4n0g26q5sv85kjfzyv23mvi5hl60me'
-    weight: 40
+    weight: 30
