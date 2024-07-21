@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0000-0003-3701-9023
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Consumer Behavior
+  - Financial Decision Making
+  - Research Methods
 
 education:
   - area: PhD Marketing, Consumer Behavior
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Test Test Test 123 
+I am an Assistant Professor of marketing at the Leeds School of Business at the University of Colorado Boulder. I received my PhD in marketing from the Fuqua School of Business at Duke University. My research lies at the intersection of marketing, finance, and consumption, with a particular interest in financial decision-making and well-being. 
