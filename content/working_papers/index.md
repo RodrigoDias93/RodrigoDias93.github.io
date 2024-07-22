@@ -10,4 +10,4 @@ sections:
       text: Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
 ---
 
-Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
+AAAaaaaaaa
