@@ -1,6 +1,9 @@
 ---
 title: My page
-type: landing
+
+type: widget_page
+
+headless: true
 
 sections:
   - block: markdown
@@ -10,4 +13,6 @@ sections:
       text: Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
 ---
 
-AAAaaaaaaa
+Test WP1
+
+Test WP2
