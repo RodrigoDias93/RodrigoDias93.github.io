@@ -1,17 +1,19 @@
 ---
-title: My page
-
-type: widget_page
-
+widget: blank
 headless: true
 
-sections:
-  - block: markdown
-    content:
-      title: Title Here
-      subtitle: My subtitle
-      text: Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. <span style="color:blue">"Consumer Wealth and Price Expectations".
+# ... Put Your Section Options Here (title etc.) ...
+title: My New Section
+subtitle:
+weight: 10  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
+
+Add any content here - text, images, videos, galleries - and even HTML code!
+
 
 Test WP1
 
